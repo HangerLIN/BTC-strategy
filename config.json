@@ -1,0 +1,7 @@
+{
+    "api_key": "",
+    "api_secret": "",
+    "test_mode": true,
+    "trade_amount_usdt": 100,
+    "trade_percent_btc": 0.25
+} 
